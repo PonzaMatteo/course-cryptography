@@ -1,0 +1,3 @@
+#Assignment-1
+In  this  assignment,  you  need  to  implement  a  visual  cryptography system.  The input will be any image.  After loading the image, HEX code will be generated. Further, HEX code will be encrypted by any cryptographic algorithm, i.e. using AES. 
+For  the  decryption,  cipher  text  will  be  loaded  and  then  using  algorithm, it  will decipher the text, then the resultant string is converted into original image.
